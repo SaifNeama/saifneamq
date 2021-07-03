@@ -1,0 +1,13 @@
+<?php
+
+// JANGAN MENGUBAH APAPUN SELAIN YG DIDALAM TANDA (")
+// PERHATIKAN TANDA (") JANGAN SAMPAI TERHAPUS
+// AGAR SCRIPT TIDAK ERROR
+
+$user = "Mozilla/5.0 (Linux; Android 9; JAT-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36";
+
+$cookie = "_ga=GA1.1.175729980.1622441713; _puck=1477296; _ptkr=PrcGHZZYgQuLHuVoJabLG9y6P7OoFp1KE6BA2PRLTTOLc7OK1gm3vf7ehscvmp97; _ga_CX7RN8385Z=GS1.1.1622441712.1.1.1622441771.0; dom3ic8zudi28v8lr6fgphwffqoz0j6c=edcec5af-e906-4e5a-8fb7-dbc9a4e49309:3:1; sb_main_28ee3e575d29653c6fd46ab9a1924b18=1; ppu_main_65aa283021630dfd9030555c4c61a78c=1; sb_count_28ee3e575d29653c6fd46ab9a1924b18=4";
+
+
+
+
